@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Abhishek.
-- 👀 I’m a Data scientist.
 - 🌱 I’m currently learning in DataTrain.
 - I'm working as a intern in Flip Robo Technologies 
 
